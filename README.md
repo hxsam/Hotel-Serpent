@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/rcastro-tyc/OdooHotelManagementSystem.svg?branch=10.0)](https://travis-ci.org/rcastro-tyc/OdooHotelManagementSystem)
+[![Build Status](https://travis-ci.org/rcastro-tyc/Hotel-Serpent.svg?branch=10.0)](https://travis-ci.org/rcastro-tyc/Hotel-Serpent)
 
 OpenERP/Odoo Hotel Management System
 ====================================
